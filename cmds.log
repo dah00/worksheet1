@@ -1,0 +1,40 @@
+    1  ls
+    2  passwd
+    3  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    4  ls
+    5  mkdir worksheet1
+    6  cd worksheet1
+    7  ls
+    8  pwd
+    9  git init
+   10  git branch
+   11  git vi mytestfile
+   12  vi mytestfile
+   13  mv mytestfile mytestfile.txt
+   14  ls
+   15  git status
+   16  git add mytestfile.txt
+   17  git status
+   18  git commit -m "my first commit"
+   19  git status
+   20  ping 172.31.197164
+   21  ping 172.31.197.164
+   22  ls
+   23  cd worksheet1
+   24  ls
+   25  get status
+   26  git status
+   27  git commit -m "first commit"
+   28  git config --global user.email "obeda.velonjatovo@sjsu.edu"
+   29  git config --global user.name "Obeda Velonjatovo"
+   30  git config -user.email
+   31  git config --get user.email
+   32  git config --get user.name
+   33  git commit -m "first commit"
+   34  git remote add origin https://github.com/dah00/worksheet1.git
+   35  git status
+   36  git push -u origin master
+   37  git status
+   38  git push -u origin master
+   39  ls
+   40  history > cmds.log
